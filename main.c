@@ -3,6 +3,8 @@ create: 015.4.2019
 autor: Miriam Nold
 PSoC DAQ
 Exercise 3
+
+Antti's comments: works as required, sufficient documentation, 10p
 */
 
 #include <m8c.h>        // part specific constants and macros
